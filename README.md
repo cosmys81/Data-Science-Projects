@@ -23,4 +23,5 @@
 ## Контакты.
 Если у Вас возникнут вопросы, можете связаться со мной по:
   * электронной почте: oreshekuoker@gmail.com.
-  * telegram/vk: @caaamellla.
+  * telegram: https://t.me/caaamellla.
+  * vk: https://vk.com/caaamellla.
