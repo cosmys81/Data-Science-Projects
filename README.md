@@ -25,6 +25,7 @@
 
 ## Контакты.
 Если у Вас возникнут вопросы, можете связаться со мной по:
+  * kaggle: https://www.kaggle.com/denisuok.
   * электронной почте: oreshekuoker@gmail.com.
   * telegram: https://t.me/caaamellla.
   * vk: https://vk.com/caaamellla.
